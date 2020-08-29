@@ -3,7 +3,7 @@
 ### Platforms: Android, IOS, WEB, DESKTOP
 ### Databases: MySQL, SqLite 
 ### Tools: IntelliJ IDEA, Android Studio, Git, PyCharm, Windows
-
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mussaffomarket
