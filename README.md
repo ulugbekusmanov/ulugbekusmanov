@@ -1,4 +1,8 @@
-### Hi there 👋
+### Languages: Java EE, Python, Dart, Kotlin, JavaScript(begginer)
+### Frameworks: Flutter, Django
+---
+Databases: MySQL
+Tools: IntelliJ IDEA, Android Studio, Git
 
 Here are some ideas to get you started:
 
